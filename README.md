@@ -12,16 +12,16 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ## Assumptions
 1. Replacement cost is estimated as a percentage of annual salary based on employee job level. Employees in higher job levels (Senior) are assumed to cost more to replace.    
     For Example : Replacement Cost Estimation    
-    Job Level 1 → 30% of Annual Salary wil be the replacement cost for this Employee
-    Job Level 2 → 50% of Annual Salary
-    Job Level 3 → 80% of Annual Salary
-    Job Level 4 → 120% of Annual Salary
-    Job Level 5 → 150% of Annual Salary
+    - Job Level 1 → 30% of Annual Salary wil be the replacement cost for this Employee
+    - Job Level 2 → 50% of Annual Salary
+    - Job Level 3 → 80% of Annual Salary
+    - Job Level 4 → 120% of Annual Salary
+    - Job Level 5 → 150% of Annual Salary
     
 2. Attrition Level is categorized as:
-    High → Attrition Rate ≥ 25%
-    Medium → Attrition Rate between 15% and 25%
-    Low → Attrition Rate < 15%
+    - High → Attrition Rate ≥ 25%
+    - Medium → Attrition Rate between 15% and 25%
+    - Low → Attrition Rate < 15%
 
 ## Key Insights
 - **Overall Attrition:**
