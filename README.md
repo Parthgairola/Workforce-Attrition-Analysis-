@@ -4,6 +4,9 @@
 The company wants to improve employee retention and reduce employee-related costs. However, the HR team does not know which job roles have the highest employee attrition .Because of this, it becomes difficult to take better hiring and retention decisions. This project finds which job roles have the highest employee attrition and how much it costs the company when employees leave.
 
 ## Dataset Used
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+## Dashboard Preview
 <img width="1408" height="796" alt="image" src="https://github.com/user-attachments/assets/2fb69e9c-99b5-44bf-bb1c-6201f5ac317f" />
 
 ## Assumptions
