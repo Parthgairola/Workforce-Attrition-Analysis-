@@ -25,15 +25,15 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Key Insights
 - **Overall Attrition:**
-  The company is facing a moderate employee retention problem with an overall attrition rate of **16%**. **Sales Representatives (40%)**, **Laboratory Technicians (24%)**, and **HR employees (23%)** showed the highest attrition rates. This indicates that employees in these job roles are leaving the company more frequently compared to other roles.
+The company is facing a moderate employee retention problem with an overall attrition rate of **16%**. **Sales Representatives (40%)**, **Laboratory Technicians (24%)**, and **HR employees (23%)** showed the highest attrition rates. This indicates that employees in these job roles are leaving the company more frequently compared to other roles.
     
 - **Overtime Impact:**
-  Employees working overtime were generally more likely to leave the company.The biggest difference was observed among **Sales Representatives** and **Laboratory Technicians**, where overtime employees showed much higher attrition rates. However, **Healthcare Representatives** showed very little difference between overtime and non-overtime employees, making them different from the overall trend.
+Employees working overtime were generally more likely to leave the company.The biggest difference was observed among **Sales Representatives** and **Laboratory Technicians**, where overtime employees showed much higher attrition rates. However, **Healthcare Representatives** showed very little difference between overtime and non-overtime employees, making them different from the overall trend.
        
 - **Replacement Cost Impact:**
 The estimated total replacement cost for employee attrition was approximately **₹51.4 Lakhs**. Although **Sales Representatives** had the highest attrition rate, they contributed only around **5%** of the total replacement cost (₹2.86 Lakhs).
     
- **Sales Executives** had a lower attrition rate (**17%**) but contributed the highest replacement cost at approximately **₹35.7 Lakhs**, accounting for nearly **69%** of the total replacement cost.This suggests that attrition in larger employee groups can create a significant financial impact on the company.
+- **Sales Executives** had a lower attrition rate (**17%**) but contributed the highest replacement cost at approximately **₹35.7 Lakhs**, accounting for nearly **69%** of the total replacement cost.This suggests that attrition in larger employee groups can create a significant financial impact on the company.
 
 ## Final Recommendations
 1. **Reduce Overtime in High-Attrition Job Roles:**
