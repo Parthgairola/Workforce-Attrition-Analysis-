@@ -1,4 +1,4 @@
-```md id="p4x8nr"
+
 # Workforce Attrition Analysis
 
 ## Business Problem
@@ -28,12 +28,13 @@ This project analyzes employee attrition patterns to identify:
 
 1. Replacement cost is estimated as a percentage of annual salary based on employee job level. Employees in higher job levels are assumed to cost more to replace due to recruitment, onboarding, training, and productivity loss.
 
-   ### Replacement Cost Estimation
-   - Job Level 1 → 30% of Annual Salary
-   - Job Level 2 → 50% of Annual Salary
-   - Job Level 3 → 80% of Annual Salary
-   - Job Level 4 → 120% of Annual Salary
-   - Job Level 5 → 150% of Annual Salary
+### Replacement Cost Estimation
+
+- Job Level 1 → 30% of Annual Salary
+- Job Level 2 → 50% of Annual Salary
+- Job Level 3 → 80% of Annual Salary
+- Job Level 4 → 120% of Annual Salary
+- Job Level 5 → 150% of Annual Salary
 
 2. Attrition Level is categorized as:
    - High → Attrition Rate ≥ 25%
@@ -61,4 +62,3 @@ This project analyzes employee attrition patterns to identify:
 2. **Focus More on Sales Executives:** Even though **Sales Executives** had a lower attrition rate, they created the highest replacement cost for the company. Improving retention in this role can help reduce major hiring and replacement expenses.
 
 3. **Improve Retention of New Employees:** Employees in some high-attrition job roles were leaving the company after staying for a shorter time. The company should focus more on improving the experience of employees during their first few years in these roles to reduce early exits.
-```
