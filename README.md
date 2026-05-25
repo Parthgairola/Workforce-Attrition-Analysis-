@@ -37,9 +37,9 @@ This project analyzes employee attrition patterns to identify:
 - Job Level 5 → 150% of Annual Salary
 
 2. Attrition Level is categorized as:
-   - High → Attrition Rate ≥ 25%
-   - Medium → Attrition Rate between 15% and 25%
-   - Low → Attrition Rate < 15%
+   - High → Attrition Rate ≥ 20%
+   - Medium → Attrition Rate >=10% & <20% 
+   - Low → Attrition Rate < 10%
 
 ---
 
