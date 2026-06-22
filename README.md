@@ -12,9 +12,10 @@ This project analyzes employee attrition patterns to identify:
 
 ---
 
-## Dataset Used
+## Dataset and Tools Used
 
-[IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+[IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) <br>
+SQL • Power BI
 
 ---
 
